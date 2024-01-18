@@ -5,7 +5,7 @@ metadata:
   description: "Testing jenkins"
   annotations:
     github.com/project-slug: efidemos/testi2
-    jenkins.io/job-full-name: testi
+    jenkins.io/job-full-name: efipp/testi
 spec:
   type: repository
   lifecycle: experimental
